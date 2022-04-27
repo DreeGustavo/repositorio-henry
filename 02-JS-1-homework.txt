@@ -1,15 +1,23 @@
 Explicacion para autocomprencion de conceptos basicos:
 
-1- Variables: Hablamos de una variable ""(var)"" cuando nos queremos referir a algo, ejemplo ;
+1- Variables: Hablamos de una variable cuando nos queremos referir a algo, ejemplo ;
      var nombre = "Gustavo" ;
-     En este caso mi nombre es Gustavo y cuando digo "variable nombre" me estoy refiriendo a mi ""(Gustavo)""
+     En este caso mi nombre es Gustavo y cuando digo "nombre" me estoy refiriendo a mi ""(Gustavo)""
 
-2- Strings: Para simplificar esto, un strings es la forma de nombrar algo dentro de la variable.
-     En el ejemplo anterior podemos ver que la ""variable nombre"" lleva el mismo entre "." esto es porque debe ser asi
-     solo cuando usemos texto.
+2- Strings: Para simplificar esto, un strings es la forma de darle significado a una variable      
 
 3- Funciones: Empezaremos con la funcion en si y que utilidad tiene;
      Una funcion es la forma de ordenarle a nuestro programa cierta tarea especifica a realizar
 
-    Argumentos: Mañana seguimos.
-   
+     Argumentos: Un argumento de la funcion son los valores que le vamos a dar a la misma
+
+     Return: Es la forma de extraer datos de una funcion
+
+4- Declaraciones : 
+     if: Con esto podremos comparar entre una cosa u otra
+
+5- Valores Booleanos:
+     En JS usamos los valores booleanos como el codigo binario, donde 0 = falso, 1 = verdadero
+     Podemos apreciar esta logica como hacer o no una operacion, ya sea activando algo o desactivandolo
+     Cuando digo True estoy diciendo Si y a su vez significa 1
+     Cuando digo False estoy diciendo No y a su vez significa 0
